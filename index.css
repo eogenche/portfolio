@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: eric.jpg;
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
+  .column {
+    width: 350px;
+    float: left;
+  }
+
+  
